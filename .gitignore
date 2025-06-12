@@ -6,5 +6,4 @@
 ".venv/" 
 "media/" 
 "staticfiles/" 
-"settings.py" 
 ".env"
